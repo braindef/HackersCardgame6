@@ -3,7 +3,7 @@
 
 ### You should not play any card of normal tarot or HackersCardgame. For example if you would play "The Tower" from a normal Tarot, you would probably win against the Crown, but you would also kill an innocent couple. This would mean that you then are a murderer and responsible for the death of two innocent people.
 
-### Today this would be logged in NSA/CIA DataRetention and of course also in other BigData Systems and you would then be blackmailed with that murderer the rest of your live.
+#### Today this would be logged in NSA/CIA DataRetention and of course also in other BigData Systems and you would then be blackmailed with that murderer the rest of your live.
 
 Since i'm permanently under electronical-/psychological warfare i can not check, if someone injected malware, for example 0-day exploits in the jpg's or inkscape exploits in the svg's.
 
