@@ -118,7 +118,7 @@ foreach($files as $file)
 
     $parts = explode(".", $file);
     echo '<div id="'.$parts[0].'" class="card" style="border: 10px solid black;float:left;text-align:center;">';
-    echo "<font color=yellow>" . $parts[0] . "</font>" . "<br>";
+    echo "<font size=4em color=yellow>" . $parts[0] . "</font>" . "<br>";
     echo '<a href="./'.$file .'" id="'.$parts[0].'"'.' target="_blank"><img width=200 src="'.$file .'" ></a><br>';
     echo '</div>
 ';
