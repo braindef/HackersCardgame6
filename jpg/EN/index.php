@@ -69,11 +69,12 @@ Source:<br>
 <!-- and of course nobody would have the stupid idea to place microdots in such a repository https://en.wikipedia.org/wiki/Microdot-->
 
 <br>
+<!--
 <audio onloadeddata="this.play();" poster="a1.jpg" playsinline loop muted controls>
     <source src="../../music/SpaceTripExtended.mp3" type="audio/mp3" />
     Your browser does not support the video tag or the file format of this video.
 </audio> <audio onloadeddata="this.play();" poster="a1.jpg" playsinline loop muted controls>
-    <source src="../../music/landev_--_mind_sciences.mp3" type="audio/mp3" />
+    <source src='../../music/landev_--_mind_sciences.mp3' type="audio/mp3" />
     Your browser does not support the video tag or the file format of this video.
 </audio> <audio onloadeddata="this.play();" poster="a1.jpg" playsinline loop muted controls>
     <source src="../../music/landev_game.mp3" type="audio/mp3" />
@@ -93,6 +94,8 @@ Source:<br>
 </div>
 <div class="cards">
 <p>
+
+-->
    <?php
 
 $files = glob("*.*");
