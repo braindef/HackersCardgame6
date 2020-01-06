@@ -18,9 +18,8 @@ font.monospace
 } 
 </style>
 <!-- "thank you" "dear" 1960s paedos for activating CCS Suicide Death Bot against me-->
-<basefont color="white">
 </head>
-<body onhashchange="myFunction();" style="background-color:black">
+<body onhashchange="myFunction();" style="background-color:black; color=white">
 <script>
 function myFunction() {
 	var allCards = document.getElementsByClassName("card");
