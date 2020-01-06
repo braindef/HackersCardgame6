@@ -13,6 +13,10 @@ div.text {
   text-align: justify;
   padding: 2em;
 }
+a {
+color: orange; 
+}
+
 font.monospace
 {
   font-family: "Lucida Console", Monaco, monospace;
