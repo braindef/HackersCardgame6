@@ -20,7 +20,7 @@ font.monospace
 </style>
 <!-- "thank you" "dear" 1960s paedos for activating CCS Suicide Death Bot against me-->
 </head>
-<body onhashchange="myFunction();" style="background-color:#222; color: white">
+<body onhashchange="myFunction();" style="background-color:#222; color: white; font-family: Arial, Helvetica, sans-serif;">
 <script>
 function myFunction() {
 	var allCards = document.getElementsByClassName("card");
@@ -118,7 +118,7 @@ foreach($files as $file)
 
     $parts = explode(".", $file);
     echo '<div id="'.$parts[0].'" class="card" style="border: 10px solid black;float:left;text-align:center;">';
-    echo "<font color=green>" . $parts[0] . "</font>" . "<br>";
+    echo "<font color=yellow>" . $parts[0] . "</font>" . "<br>";
     echo '<a href="./'.$file .'" id="'.$parts[0].'"'.' target="_blank"><img width=200 src="'.$file .'" ></a><br>';
     echo '</div>
 ';
