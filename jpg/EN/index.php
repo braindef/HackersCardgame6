@@ -43,7 +43,7 @@ document.addEventListener("DOMContentLoaded", function(event) {
 
 <a href="https://github.com/braindef/HackersCardgame6"><img src="./README.png"></a>
 
-
+<br><br>
 Never Play "<font color=red>Red Team</font>" help out with "<font color=blue>Blue Team</font>" and save the World<br> The old Generation would like that the young become red team, but they still have the biggest surveillance system, so if a young would have success to attack satans network they would pop the legal system and force the young hacker to work for satans black world. So this cards are all deffence, this are dirthy things they used against me.<br>
 please respect the <a href="../../LICENSE">license</a>, People like Julian Assange, Fefe, Frank Rieger, @Paniq & Silvia, Gunnar Kaiser, Dan Kaminsky, John Hunter, (world peace game), Richard Stallman, Linux Torvalds, Tschökk Sparrow &amp;&amp; Stefan Bader &amp; Co, Andy Müller-Maguhn are excluded from the 1978 Rule in my license, and even if he passed away Joseph Weizenbaum would be excluded from the 1978 rule too. And all members of the Demoscene that have an valid entry on scene-ftp
 <br>if you think you should be excluded from the "1978 and younger"-Rule you can contact me on twitter @FailDef<br><br>
