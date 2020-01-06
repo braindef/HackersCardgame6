@@ -48,7 +48,9 @@ document.addEventListener("DOMContentLoaded", function(event) {
 please respect the <a href="../../LICENSE">License</a><br>
 
 <br>
-Never Play "<font color=red>Red Team</font>" help out with "<font color=blue>Blue Team</font>" and save the World<br> The some from the old Generation would like that the young would become red team, but they still have the biggest surveillance system, so if a young would have success to attack satans network they would pop the legal system and force the young hacker to work for satans black world. So this cards are meant to be some sort of deffence cards to see what dirty things they use(d) against me.<br><br>
+<h2>Never Play "<font color=red>Red Team</font>" help out with "<font color=blue>Blue Team</font>" and save the World</h2>
+<br>
+The some from the old Generation would like that the young would become red team, but they still have the biggest surveillance system, so if a young would have success to attack satans network they would pop the legal system and force the young hacker to work for satans black world. So this cards are meant to be some sort of deffence cards to see what dirty things they use(d) against me.<br><br>
 
 <br>
 <font class=monospace color=green size=4em><b>If one of the two kids that normally both promise to be true to each other forever breaks the promise, they can easily break your mind but also the mind of the girl or boy you betrayed. Choose wisely, once but forever!</b></font> <font class=monospace color=red size=4em>If the parents have pedophile tendencies they would try to separate the equal aged couple.</font>
