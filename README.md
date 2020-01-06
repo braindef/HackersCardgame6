@@ -1,5 +1,9 @@
 # HackersCardgame (v 0.6.0)
-#### Normal Tarot or other Card Games lacks Technology, Method and Algorithm Cards and has only Archetype cards, it are less Tarot Cards with power but more cards to teach & explain people one can do with technology today. You should not play any card of normal tarot or HackersCardgame. For example if you would play "The Tower" from the normal Tarot, you would probably win against the Crown, but you would also kill an innocent couple. This you would mean that you then are a murderer and responsible for the death of two innocent people. This would be logged in NSA/CIA DataRetention and you would be blackmailed with that murderer the rest of your live.
+## Normal Tarot or other Card Games lacks Technology, Method and Algorithm Cards and has only Archetype cards, it are less Tarot Cards with power but more cards to teach & explain people one can do with technology today.
+
+### You should not play any card of normal tarot or HackersCardgame. For example if you would play "The Tower" from a normal Tarot, you would probably win against the Crown, but you would also kill an innocent couple. This would mean that you then are a murderer and responsible for the death of two innocent people.
+
+### Today this would be logged in NSA/CIA DataRetention and of course also in other BigData Systems and you would then be blackmailed with that murderer the rest of your live.
 
 Since i'm permanently under electronical-/psychological warfare i can not check, if someone injected malware, for example 0-day exploits in the jpg's or inkscape exploits in the svg's.
 
