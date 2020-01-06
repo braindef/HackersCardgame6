@@ -49,16 +49,16 @@ People that work for the NDB are explicitely excluded and not allowed to read, s
 <br><br>
 <font class=monospace color=green size=4em><b>If one of the two kids that normally both promise to be true to each other forever breaks the promise, they can easily break your mind but also the mind of the girl or boy you betrayed, choose wisely and only once but forever</b></font> <font class=monospace color=red size=4em><b>be careful if your parents would be pedophile their first step would be to separate the equal aged couple. Seductive coercion is a technique used by the NSA/CIA, the CIA would eg promise the Father of the Girl "If you kill the boy, you could rape your daughter" or similar things, but the CIA would then ask for more since Urs whould be a murderer then, so it's more about coercion than seduction </b></font> 
 <br><br>
-I tried that i only take free images or cc0 licensed images, if you think there is something wrong that should be licesed please contact me on github or directly add an issue in the HackersCardgame5 Repository.
+I tried that i only take free images or cc0 licensed images, if you think there is something wrong that should be licesed please contact me on github or directly add an issue in the HackersCardgame6 Repository.
 <br>
 Maybe i should call my paranoja good situational awareness like andy does.
 <br>
 
 Source:<br>
-<a href="https://github.com/braindef/HackersCardgame5">https://github.com/braindef/HackersCardgame5</a><br>
+<a href="https://github.com/braindef/HackersCardgame6">https://github.com/braindef/HackersCardgame6</a><br>
 <a href="https://2hmorvqnlhwyrhvl6dwv4jqgnvhlaf2wxnrbmbhrbpmx5x3qqiwprjyd.onion/">https://2hmorvqnlhwyrhvl6dwv4jqgnvhlaf2wxnrbmbhrbpmx5x3qqiwprjyd.onion/</a>
 <br><br>
-<a href="https://github.com/braindef/HackersCardgame5/tree/master/pdf/EN/A4">PRINTING TEMPLATES (PDF)</a>
+<a href="https://github.com/braindef/HackersCardgame6/tree/master/pdf/EN/A4">PRINTING TEMPLATES (PDF)</a>
 <br>
 <a href="../../pdf/EN/A4/">PRINTING TEMPLATES local(PDF)</a>
 <br><br>
