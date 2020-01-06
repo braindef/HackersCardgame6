@@ -42,20 +42,17 @@ document.addEventListener("DOMContentLoaded", function(event) {
 <h1>Hackers Cardgame</h1>
 
 <a href="https://github.com/braindef/HackersCardgame6"><img src="./README.png"></a>
+<br><br>
+
+please respect the <a href="../../LICENSE">license</a><br>
 
 <br><br>
-Never Play "<font color=red>Red Team</font>" help out with "<font color=blue>Blue Team</font>" and save the World<br> The old Generation would like that the young become red team, but they still have the biggest surveillance system, so if a young would have success to attack satans network they would pop the legal system and force the young hacker to work for satans black world. So this cards are all deffence, this are dirthy things they used against me.<br>
-please respect the <a href="../../LICENSE">license</a>, People like Julian Assange, Fefe, Frank Rieger, @Paniq & Silvia, Gunnar Kaiser, Dan Kaminsky, John Hunter, (world peace game), Richard Stallman, Linux Torvalds, Tschökk Sparrow &amp;&amp; Stefan Bader &amp; Co, Andy Müller-Maguhn are excluded from the 1978 Rule in my license, and even if he passed away Joseph Weizenbaum would be excluded from the 1978 rule too. And all members of the Demoscene that have an valid entry on scene-ftp
-<br>if you think you should be excluded from the "1978 and younger"-Rule you can contact me on twitter @FailDef<br><br>
-People that work for the NDB are explicitely excluded and not allowed to read, scan, track, modify my cards, since i guess they sent me to mental institition again after i posted #NDB<=>#Psychiatrie, but if you think you *E* are one of the good guys at NDB, talk to me.
+Never Play "<font color=red>Red Team</font>" help out with "<font color=blue>Blue Team</font>" and save the World<br> The some from the old Generation would like that the young would become red team, but they still have the biggest surveillance system, so if a young would have success to attack satans network they would pop the legal system and force the young hacker to work for satans black world. So this cards are meant to be some sort of deffence cards to see what dirty things they use(d) against me.<br><br>
+
 <br><br>
-<font color=red>if i'm right it would be likely that the NDB/CIA/NSA hacked Hostpoint and is trying to find other victims like me to blackmail and silence them too.</font> <font color=purple><b>and they activate some sort of neural radio jamming device if you try to read the cards, to stop you from finding out how this things work, i tried to create this cards in the mountains or in the forest but my laptop is jamming me too, maybe if you have no electronical equipment in your backpack and only this cards they can not jam your neural radio, but not 100% sure abut that</b></font>
+<font class=monospace color=green size=4em><b>If one of the two kids that normally both promise to be true to each other forever breaks the promise, they can easily break your mind but also the mind of the girl or boy you betrayed. Choose wisely, once but forever</b></font> <font class=monospace color=red size=4em><b>be careful if your parents have pedophile tendencies they would try to separate the equal aged couple.  
 <br><br>
-<font class=monospace color=green size=4em><b>If one of the two kids that normally both promise to be true to each other forever breaks the promise, they can easily break your mind but also the mind of the girl or boy you betrayed, choose wisely and only once but forever</b></font> <font class=monospace color=red size=4em><b>be careful if your parents would be pedophile their first step would be to separate the equal aged couple. Seductive coercion is a technique used by the NSA/CIA, the CIA would eg promise the Father of the Girl "If you kill the boy, you could rape your daughter" or similar things, but the CIA would then ask for more since Urs whould be a murderer then, so it's more about coercion than seduction </b></font> 
-<br><br>
-I tried that i only take free images or cc0 licensed images, if you think there is something wrong that should be licesed please contact me on github or directly add an issue in the HackersCardgame6 Repository.
-<br>
-Maybe i should call my paranoja good situational awareness like andy does.
+Maybe i should call my paranoja a good situational awareness like Andy does...
 <br>
 
 Source:<br>
@@ -146,7 +143,7 @@ Neuenburgerstrasse 6<br>
 5004 Aarau<br>
 mail@marclandolt.ch<br>
 062 822 61 31 (mostly unplugged)<br>
-078 674 15 32 (mostly turned off and wrapped in tinfoil)<br>
+078 674 15 32 (mostly turned off and wrapped in tin foil)<br>
 </p>
 </body>
 </html>
