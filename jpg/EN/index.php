@@ -59,9 +59,12 @@ Source:<br>
 <a href="https://github.com/braindef/HackersCardgame6">https://github.com/braindef/HackersCardgame6</a><br>
 <a href="https://2hmorvqnlhwyrhvl6dwv4jqgnvhlaf2wxnrbmbhrbpmx5x3qqiwprjyd.onion/">https://2hmorvqnlhwyrhvl6dwv4jqgnvhlaf2wxnrbmbhrbpmx5x3qqiwprjyd.onion/</a>
 <br><br>
-<a href="https://github.com/braindef/HackersCardgame6/tree/master/pdf/EN/A4">PRINTING TEMPLATES (PDF)</a>
+
+<h3>Printing Templates:</h3>
+<a href="https://github.com/braindef/HackersCardgame6/tree/master/pdf/EN/A4">Github (PDF)</a>
 <br>
-<a href="../../pdf/EN/A4/">PRINTING TEMPLATES local(PDF)</a>
+<a href="../../pdf/EN/A4/">local (PDF)</a>
+Printing the cards gives you a offline copy, cutting them out makes you focus ~1 Min per card that could be useful for your Learning Curve.
 <br><br>
 <!-- and of course nobody would have the stupid idea to place microdots in such a repository https://en.wikipedia.org/wiki/Microdot-->
 
