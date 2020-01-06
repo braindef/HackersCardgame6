@@ -143,7 +143,7 @@ foreach($files as $file)
 <div class="text">
 Possibly you would get in serious trouble with those people, that abuses this technology if you would fork this repo <font color=red>*INSERT: "marc is insane"-stimulus on t1 card*</font> but if eg. 1000 <font color=red>*INSERT: "marc has delusions of grandeur"-stimulus on t1 card*</font> would fork at the same time, they would possibly not have enough manpower to target all people that forked it, maybe. Additionally [I] suggest that all people creates their own cards / deck / repo without using the images or the exact text of my repository. It would spam the people abusing it *INSERT: <font color=red>against you!!!</font> <font color=yellow>(psychological warfare)</font>* because they would have to keep eg 1000 people in check. Having different decks would make the people that abuses this sort of technolgoy leak all they have *<font color=lightgreen>my insert: some sort of reveres-psychological warfare :D</font>*
 <br><br>
-If you are crazy enough to <font color=green>become a part of mind-control-hacking community</font> take at least 1 equal aged friend, never do such things alone, use as much different technologies as you can, eg. inkscape, illustrator, html5, demoscene videos, painted art, music ... maybe you have even better ideas...
+If you are crazy enough to <font color=yellow>become a part of mind-control-hacking community</font> take at least 1 equal aged friend, never do such things alone, use as much different technologies as you can, eg. inkscape, illustrator, html5, demoscene videos, painted art, music ... maybe you have even better ideas...
 
 <br>
 <br>
