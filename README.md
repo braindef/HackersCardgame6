@@ -5,7 +5,7 @@
 
 #### Today this would be logged in NSA/CIA DataRetention and of course also in other BigData Systems and you would then be blackmailed with that murderer the rest of your live.
 
-Since i'm permanently under electronical-/psychological warfare i can not check, if someone injected malware, for example 0-day exploits in the jpg's or inkscape exploits in the svg's.
+Since i'm permanently under electronical-/psychological warfare **i can not check, if someone injected malware**, for example 0-day exploits in the jpg's or inkscape exploits in the svg's.
 
 I tried to use free content, eg cc0, if i violated any licenses please create an issue in this repository to clame your license so that i can remove the file.
 
