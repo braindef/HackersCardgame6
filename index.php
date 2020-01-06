@@ -50,7 +50,7 @@ please respect the <a href="../../LICENSE">License</a><br>
 Never Play "<font color=red>Red Team</font>" help out with "<font color=blue>Blue Team</font>" and save the World<br> The some from the old Generation would like that the young would become red team, but they still have the biggest surveillance system, so if a young would have success to attack satans network they would pop the legal system and force the young hacker to work for satans black world. So this cards are meant to be some sort of deffence cards to see what dirty things they use(d) against me.<br><br>
 
 <br>
-<font class=monospace color=green size=4em><b>If one of the two kids that normally both promise to be true to each other forever breaks the promise, they can easily break your mind but also the mind of the girl or boy you betrayed. Choose wisely, once but forever</b></font> <font class=monospace color=red size=4em>If the parents have pedophile tendencies they would try to separate the equal aged couple.</font>
+<font class=monospace color=green size=4em><b>If one of the two kids that normally both promise to be true to each other forever breaks the promise, they can easily break your mind but also the mind of the girl or boy you betrayed. Choose wisely, once but forever!</b></font> <font class=monospace color=red size=4em>If the parents have pedophile tendencies they would try to separate the equal aged couple.</font>
 <br><br>
 Maybe i should call my paranoja a good situational awareness like Andy does...
 <br>
@@ -63,7 +63,7 @@ Source:<br>
 <h3>Printing Templates:</h3>
 <a href="https://github.com/braindef/HackersCardgame6/tree/master/pdf/EN/A4">Github (PDF)</a>
 <br>
-<a href="../../pdf/EN/A4/">local (PDF)</a>
+<a href="../../pdf/EN/A4/">local (PDF)</a><br>
 Printing the cards gives you a offline copy, cutting them out makes you focus ~1 Min per card that could be useful for your Learning Curve.
 <br><br>
 <!-- and of course nobody would have the stupid idea to place microdots in such a repository https://en.wikipedia.org/wiki/Microdot-->
@@ -134,9 +134,9 @@ foreach($files as $file)
 </div>
 <p>
 <div class="text">
-Possibly you would get in serious trouble with those people, that abuses this technology if you would fork this repo *INSERT: "marc is insane"-stimulus on t1 card* but if eg. 1000 *INSERT: "marc has delusions of grandeur"-stimulus on t1 card* would fork at the same time, they would possibly not have enough manpower to target all that forked it. Additionally [I] suggest that all people creates their own cards / deck / repo without using the images or the exact text of my repository, it would spam the people abusing it *INSERT: <font color=red>against you!!!</font> (psychological warfare)* because they would have to keep eg 1000 people in check. Having different decks would make the people that abuses this sort of technolgoy leak all they have *my insert: <font color=green>also psychological warfare :D</font>*
-
-if you are crazy enough to <font color=green>become a part of mind-control-hacking community</font> take at least 1 equal aged friend, never do such things allone, use as much different technologies as you can, eg. inkscape, illustrator, html5, demoscene videos, painted art, music ... maybe you have even better ideas...
+Possibly you would get in serious trouble with those people, that abuses this technology if you would fork this repo <font color=red>*INSERT: "marc is insane"-stimulus on t1 card*</font> but if eg. 1000 <font color=red>*INSERT: "marc has delusions of grandeur"-stimulus on t1 card*</font> would fork at the same time, they would possibly not have enough manpower to target all people that forked it, maybe. Additionally [I] suggest that all people creates their own cards / deck / repo without using the images or the exact text of my repository. It would spam the people abusing it *INSERT: <font color=red>against you!!!</font> <font color=yellow>(psychological warfare)</font>* because they would have to keep eg 1000 people in check. Having different decks would make the people that abuses this sort of technolgoy leak all they have *<font color=green>my insert: also psychological warfare :D</font>*
+<br><br>
+If you are crazy enough to <font color=green>become a part of mind-control-hacking community</font> take at least 1 equal aged friend, never do such things alone, use as much different technologies as you can, eg. inkscape, illustrator, html5, demoscene videos, painted art, music ... maybe you have even better ideas...
 
 <br>
 <br>
