@@ -20,13 +20,13 @@ font.monospace
 </style>
 <!-- "thank you" "dear" 1960s paedos for activating CCS Suicide Death Bot against me-->
 </head>
-<body onhashchange="myFunction();" style="background-color:#111111; color: white">
+<body onhashchange="myFunction();" style="background-color:#222; color: white">
 <script>
 function myFunction() {
 	var allCards = document.getElementsByClassName("card");
 	for (i=0; i<allCards.length; i++)
 	{
-		allCards[i].style = "border: 10px solid black;float:left;text-align:center;";
+		allCards[i].style = "border: 10px solid #222;float:left;text-align:center;";
 		console.log(i);
 	}	
 	var card = window.location.hash.substr(1);
@@ -50,7 +50,7 @@ please respect the <a href="../../LICENSE">License</a><br>
 <br>
 <h2>Never Play "<font color=red>Red Team</font>" help out with "<font color=blue>Blue Team</font>" and save the World</h2>
 <br>
-Some from the older Generation would like that the young would become red team, but they still have the biggest surveillance system, so if a young would have success to attack satans network they would pop the legal system and force the young hacker to work for satans black world. So this cards are meant to be some sort of deffence cards to learn from dirty things they use(d) against me.<br><br>
+Some from the older Generation would like that the young people would become red team, but they still have the biggest surveillance system, so if a young would have success to attack satans network they would pop the legal system and force the young hacker to work for satans black world. So this cards are meant to be some sort of deffence cards to learn from dirty things they use(d) against me.<br><br>
 
 <br>
 <font class=monospace color=green size=4em><b>If one of the two kids that normally both promise to be true to each other forever breaks the promise, they can easily break your mind but also the mind of the girl or boy you betrayed. Choose wisely, once but forever!</b></font> <font class=monospace color=red size=4em>If the parents have pedophile tendencies they would try to separate the equal aged couple.</font>
