@@ -19,13 +19,13 @@ font.monospace
 </style>
 <!-- "thank you" "dear" 1960s paedos for activating CCS Suicide Death Bot against me-->
 </head>
-<body onhashchange="myFunction();" style="background-color:#E6E6FA">
+<body onhashchange="myFunction();" style="background-color:black">
 <script>
 function myFunction() {
 	var allCards = document.getElementsByClassName("card");
 	for (i=0; i<allCards.length; i++)
 	{
-		allCards[i].style = "border: 10px solid white;float:left;text-align:center;";
+		allCards[i].style = "border: 10px solid black;float:left;text-align:center;";
 		console.log(i);
 	}	
 	var card = window.location.hash.substr(1);
@@ -114,7 +114,7 @@ foreach($files as $file)
   if (in_array($ext, $supported_file)) {
 
     $parts = explode(".", $file);
-    echo '<div id="'.$parts[0].'" class="card" style="border: 10px solid white;float:left;text-align:center;">';
+    echo '<div id="'.$parts[0].'" class="card" style="border: 10px solid black;float:left;text-align:center;">';
     echo "<font color=green>" . $parts[0] . "</font>" . "<br>";
     echo '<a href="./'.$file .'" id="'.$parts[0].'"'.' target="_blank"><img width=200 src="'.$file .'" ></a><br>';
     echo '</div>
