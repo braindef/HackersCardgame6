@@ -61,7 +61,7 @@ Some from the older Generation would like that the young people would become red
 <br><br>
 Maybe i should call my paranoja a good situational awareness like Andy does...
 <br>
-
+<br>
 Source:<br>
 <a href="https://github.com/braindef/HackersCardgame6">https://github.com/braindef/HackersCardgame6</a><br>
 <a href="https://2hmorvqnlhwyrhvl6dwv4jqgnvhlaf2wxnrbmbhrbpmx5x3qqiwprjyd.onion/">https://2hmorvqnlhwyrhvl6dwv4jqgnvhlaf2wxnrbmbhrbpmx5x3qqiwprjyd.onion/</a>
